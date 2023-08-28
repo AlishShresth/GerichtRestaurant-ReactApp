@@ -1,6 +1,7 @@
 ## Deployed site at (https://alish-gerich.netlify.app/)
 
-![Uploading image.png…]()
+<img width="1470" alt="Screenshot 2023-08-28 at 18 46 34" src="https://github.com/AlishShresth/GerichtRestaurant/assets/85062379/85963474-d64b-49e3-b747-e566834eeac6">
+
 
 # Getting Started with Create React App
 
